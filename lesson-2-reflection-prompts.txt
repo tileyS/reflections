@@ -7,9 +7,11 @@ The staginig directory allows exacty what changes to be committed. Allows you to
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can compare the staging area with the last commit. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you are trying out ideas but are not ready to change your original idea.
 
 How do the diagrams help you visualize the branch structure?
 
