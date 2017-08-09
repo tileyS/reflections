@@ -14,6 +14,7 @@ organized? How would branches help?
 When you are trying out ideas but are not ready to change your original idea.
 
 How do the diagrams help you visualize the branch structure?
+Helps me to quickly take a look at latest commits, parents of commits and branches. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
