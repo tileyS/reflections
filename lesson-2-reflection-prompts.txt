@@ -18,6 +18,7 @@ Helps me to quickly take a look at latest commits, parents of commits and branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is a new commit which contains the history from both branches. The merged branch contains the latest version of the developed software.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
